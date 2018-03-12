@@ -25,7 +25,7 @@ POST http://ivaa.space:64563/projects
 ```
 
 
-## Test model ##
+## Model usage ##
 ```
 POST http://ivaa.space:64563/api
 ```
